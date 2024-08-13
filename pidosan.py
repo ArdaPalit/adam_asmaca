@@ -24,7 +24,6 @@ def solve():
     print(" ".join(gizli_kelime))
 
 
-# Oyun döngüsü
 while "_" in gizli_kelime:  
     print("Gizli Kelime: ", " ".join(gizli_kelime))
     ikin()
